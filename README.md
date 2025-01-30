@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello 👋
+
+- I'm a CS major at the University of Alabama, class of 2028!
+- I'm currently learning C and Python.
+- My current goal is to start building basic programs :)
+- Pronouns: She/Her
+
+##### - How to reach me: jattannaima04@gmail.com
 
 <!--
 **NaimaAJ/NaimaAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
